@@ -42,3 +42,11 @@
 11:09:49.592 [main] INFO  test_cases.Test_case_1 - validating the dashboard title
 11:09:51.204 [main] INFO  test_cases.Test_case_1 - dashboard title is available
 11:09:51.204 [main] INFO  test_cases.Test_case_1 - ******Executed the Test_case_1******
+19:40:15.153 [main] INFO  test_cases.End_to_End - ******Executing the Test_case_1******
+19:40:15.162 [main] DEBUG test_cases.End_to_End - Debug of script
+19:40:15.232 [main] INFO  test_cases.End_to_End - Entering username.....
+19:40:15.335 [main] INFO  test_cases.End_to_End - Entering password......
+19:40:15.465 [main] INFO  test_cases.End_to_End - clicking on login.......
+19:40:16.722 [main] INFO  test_cases.End_to_End - Logged in successfully
+19:40:16.722 [main] INFO  test_cases.End_to_End - validating the dashboard title
+19:40:17.222 [main] INFO  test_cases.End_to_End - dashboard title is available

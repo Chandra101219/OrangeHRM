@@ -23,7 +23,7 @@
           		
           		<configuration>
             		<suiteXmlFiles>
-						<suiteXmlFile>grouping.xml</suiteXmlFile>
+						<suiteXmlFile>testing.xml</suiteXmlFile>
 					</suiteXmlFiles>
           		</configuration>
         	</plugin>

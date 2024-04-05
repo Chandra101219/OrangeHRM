@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-04T11:09:27 IST" name="Default suite" finished-at="2024-04-04T11:09:51 IST" duration-ms="23643">
+  <suite started-at="2024-04-05T19:40:01 IST" name="Default suite" finished-at="2024-04-05T19:40:45 IST" duration-ms="44289">
     <groups>
     </groups>
-    <test started-at="2024-04-04T11:09:27 IST" name="Default test" finished-at="2024-04-04T11:09:51 IST" duration-ms="23643">
-      <class name="test_cases.Test_case_1">
-        <test-method is-config="true" signature="app_launch()[pri:0, instance:test_cases.Test_case_1@d737b89]" started-at="2024-04-04T11:09:27 IST" name="app_launch" finished-at="2024-04-04T11:09:49 IST" duration-ms="21295" status="PASS">
+    <test started-at="2024-04-05T19:40:01 IST" name="Default test" finished-at="2024-04-05T19:40:45 IST" duration-ms="44289">
+      <class name="test_cases.End_to_End">
+        <test-method is-config="true" signature="app_launch()[pri:0, instance:test_cases.End_to_End@d737b89]" started-at="2024-04-05T19:40:01 IST" name="app_launch" finished-at="2024-04-05T19:40:15 IST" duration-ms="13641" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- app_launch -->
-        <test-method signature="login()[pri:0, instance:test_cases.Test_case_1@d737b89]" started-at="2024-04-04T11:09:49 IST" name="login" finished-at="2024-04-04T11:09:51 IST" duration-ms="2026" status="PASS">
+        <test-method signature="addingUserforEmployee()[pri:0, instance:test_cases.End_to_End@d737b89]" started-at="2024-04-05T19:40:15 IST" name="addingUserforEmployee" finished-at="2024-04-05T19:40:45 IST" duration-ms="30135" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method is-config="true" signature="app_close()[pri:0, instance:test_cases.Test_case_1@d737b89]" started-at="2024-04-04T11:09:51 IST" name="app_close" finished-at="2024-04-04T11:09:51 IST" duration-ms="249" status="PASS">
+        </test-method> <!-- addingUserforEmployee -->
+        <test-method is-config="true" signature="app_close()[pri:0, instance:test_cases.End_to_End@d737b89]" started-at="2024-04-05T19:40:45 IST" name="app_close" finished-at="2024-04-05T19:40:45 IST" duration-ms="440" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- app_close -->
-      </class> <!-- test_cases.Test_case_1 -->
+      </class> <!-- test_cases.End_to_End -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
